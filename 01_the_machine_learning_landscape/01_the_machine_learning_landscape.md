@@ -67,7 +67,7 @@
 * nonrepresentative data
 * uninformative features
 * excessively complex models that overfit the data
-
+	
 	모델이 training data에 대해 우수한 결과가 나왔지만 새 인스턴스가 좋지 않은경우 일반적으로 모델이 training data에 지나치게 잘 맞았다고 한다. 이를 overfitting이라고 한다.
 	
 	
@@ -104,3 +104,6 @@
 	LOOCV에서 1개의 데이터를 validation data로 했는데 이를 1개가 아닌 K개의 데이터로 나눈 것.
 	
 	CV와 LOOCV의 중간으로 좋은 성능과 알맞은 시간이 걸려서 많이 사용한다.
+	
+	
+	
